@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Sonali Bandu Dighe
+# 👋 Hii! I'm Sonali Bandu Dighe
 
 Welcome to my profile! I’m excited to share a bit about myself and my journey with you.  
 
