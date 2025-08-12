@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Sonali Bandu Dighe.  
+# 👋 Hello! I'm Sonali Bandu Dighe
 
 Welcome to my profile! I’m excited to share a bit about myself and my journey with you.  
 
@@ -25,5 +25,5 @@ Bachelor of science (B.SC.) computer science - P.A.H University Solapur-Sangola 
 
 ## 📫 Connect with Me  
 - **Email:** dighesonali151@gmail.com 
-- **LinkedIn:** in/sonalidighe
+- **LinkedIn:** https://www.linkedin.com/in/sonali-dighe
   
