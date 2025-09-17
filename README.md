@@ -1,6 +1,6 @@
 # 👋 Hii! I'm Sonali Bandu Dighe
 
-Welcome to my profile! I’m excited to share a bit about myself and my journey with you.  
+Thank you for visiting my profile! I'd love to take you through my journey and expriences.   
 
 ## 🌟 About Me  
 I am a dedicated and passionate Computer Science student with an interest in **web development**, **problem-solving**, and **technology innovation**.  
