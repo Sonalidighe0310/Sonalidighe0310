@@ -25,5 +25,5 @@ Bachelor of science (B.SC.) computer science - P.A.H University Solapur-Sangola 
 
 ## 📫 Connect with Me  
 - **Email:** dighesonali151@gmail.com 
-- **LinkedIn:** https://www.linkedin.com/in/sonali-dighe
+- **LinkedIn:** https://www.linkedin.com/in/sonali-dighe-02938331a
   
